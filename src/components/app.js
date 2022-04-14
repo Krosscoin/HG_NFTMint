@@ -32,7 +32,7 @@ WavesKeeper.signAndPublishTransaction({
       tokens: '0.009',
       assetId: 'WAVES',
     },
-    dApp: '3KipnmUXXH2aqWprnLegTSwbupSnavuXFKM',
+    dApp: '3KSeWNBG36u8uDZgVCRqHwecbk7JqW3ZGG1',
     call: {
       function: 'RegisterNFTSeries',
     "args": [
@@ -109,7 +109,7 @@ WavesKeeper.signAndPublishTransaction({
       tokens: '0.009',
       assetId: 'WAVES',
     },
-    dApp: '3KipnmUXXH2aqWprnLegTSwbupSnavuXFKM',
+    dApp: '3KSeWNBG36u8uDZgVCRqHwecbk7JqW3ZGG1',
     call: {
       function: 'IssueNFTSeries',
       args: [
